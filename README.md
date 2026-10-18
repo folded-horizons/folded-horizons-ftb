@@ -2,7 +2,7 @@
 
 FTB integration module for the **Folded Horizons** companion mod.
 
-Will live at [`folded-horizons/folded-horizons-ftb`](https://github.com/folded-horizons/folded-horizons-ftb).
+
 
 ## What it ships
 
